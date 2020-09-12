@@ -4,6 +4,9 @@ This project was created using React JS library.
 
 In the project directory, you can run:
 
+### `npm install` 
+To install all dependencies. 
+
 ### `npm start`
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
